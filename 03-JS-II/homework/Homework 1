@@ -1,0 +1,20 @@
+Variable: Las personas tienen diferentes nombres, pero los nombres no son las personas, aunque se usan para 
+referirse a ellas. Los nombres se pueden cambiar, asi una persona puede tener diferentes nombres. Un padre 
+puede llamar a su hijo junior aunque ellos dos no tengan el mismo nombre. A un niño se le puede decir "nene" 
+y luego a otro igual en el mismo hogar sin que nadie se confunda. Nombres diferentes se pueden referir al 
+mismo "objeto" al mismo tiempo. Diferentes variables se pueden referir a la misma cosa al mismo tiempo. Un 
+nombre se puede referir a diferentes objetos, pero no a la misma vez. Se puede referir a una cosa en un 
+momento y a otra en otro momento. Se puede referir a un objeto dado en un "lugar" pero a diferentes objetos 
+en diferentes lugares.
+
+Strings: Son palabras. Los números se pueden hacer palabras usando unos símbolos cuando empieza la palabra y 
+el mismo simbolo cuando termina.
+
+Funciones: es un conjunto de instrucciones que realiza una tarea o calcula un valor, pero para que un 
+procedimiento se pueda llamar función, debe tomar alguna entrada y devolver una salida donde hay alguna 
+relación obvia entre la entrada y la salida.
+
+Declaraciones: es donde se define algo. Qué es lo que va a hacer.
+
+Valores Booleanos: Es cuando algo solo puede ser verdad o mentira. (True or False).
+
